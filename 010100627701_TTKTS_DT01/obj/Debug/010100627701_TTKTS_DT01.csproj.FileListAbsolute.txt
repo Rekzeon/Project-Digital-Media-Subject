@@ -1,0 +1,52 @@
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.exe.config
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.exe
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.pdb
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csprojAssemblyReference.cache
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\010100627701_TTKTS_DT01\obj\Debug\_010100627701_TTKTS_DT01.Form1.resources
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\010100627701_TTKTS_DT01\obj\Debug\_010100627701_TTKTS_DT01.Properties.Resources.resources
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csproj.GenerateResource.cache
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csproj.CoreCompileInputs.cache
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.exe
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.pdb
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.exe.config
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.exe
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.pdb
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csprojAssemblyReference.cache
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\_010100627701_TTKTS_DT01.Form1.resources
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\_010100627701_TTKTS_DT01.Properties.Resources.resources
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csproj.GenerateResource.cache
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csproj.CoreCompileInputs.cache
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.exe
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.pdb
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.exe.manifest
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.application
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.exe.manifest
+E:\One Driver Business\Document\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.application
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.exe.config
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.exe.manifest
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.application
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.exe
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.pdb
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csproj.AssemblyReference.cache
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\_010100627701_TTKTS_DT01.Form1.resources
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\_010100627701_TTKTS_DT01.Properties.Resources.resources
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csproj.GenerateResource.cache
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csproj.CoreCompileInputs.cache
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.exe.manifest
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.application
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.exe
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.pdb
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.exe.config
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.exe.manifest
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.application
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.exe
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\bin\Debug\010100627701_TTKTS_DT01.pdb
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csproj.AssemblyReference.cache
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\_010100627701_TTKTS_DT01.Form1.resources
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\_010100627701_TTKTS_DT01.Properties.Resources.resources
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csproj.GenerateResource.cache
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.csproj.CoreCompileInputs.cache
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.exe.manifest
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.application
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.exe
+D:\One Driver Save\OneDrive - Ho Chi Minh city University of Food Industry\Đồ Án\Truyền Thông Kỹ Thuật Số\010100627701_TTKTS_DT01\obj\Debug\010100627701_TTKTS_DT01.pdb

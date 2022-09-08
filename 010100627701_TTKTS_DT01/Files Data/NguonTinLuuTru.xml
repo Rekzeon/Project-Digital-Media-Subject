@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TINS>
+  <TIN ID="a1">
+    <Ten>a1</Ten>
+    <XacXuat>0.33</XacXuat>
+    <HeSo>2</HeSo>
+  </TIN>
+  <TIN ID="a10">
+    <Ten>a10</Ten>
+    <XacXuat>0.125</XacXuat>
+    <HeSo>2</HeSo>
+  </TIN>
+</TINS>

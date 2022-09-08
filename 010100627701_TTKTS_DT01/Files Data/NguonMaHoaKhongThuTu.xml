@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TINS>
+  <TIN>
+    <Ten>a5</Ten>
+    <XacXuat>0.2</XacXuat>
+    <HeSo>2</HeSo>
+  </TIN>
+
+  <TIN>
+    <Ten>a9</Ten>
+    <XacXuat>0.17</XacXuat>
+    <HeSo>2</HeSo>
+  </TIN>
+
+  <TIN>
+    <Ten>a6</Ten>
+    <XacXuat>0.21</XacXuat>
+    <HeSo>2</HeSo>
+  </TIN>
+
+  <TIN>
+    <Ten>a4</Ten>
+    <XacXuat>0.05</XacXuat>
+    <HeSo>2</HeSo>
+  </TIN>
+
+  <TIN>
+    <Ten>a1</Ten>
+    <XacXuat>0.02</XacXuat>
+    <HeSo>2</HeSo>
+  </TIN>
+
+  <TIN>
+    <Ten>a7</Ten>
+    <XacXuat>0.05</XacXuat>
+    <HeSo>2</HeSo>
+  </TIN>
+
+  <TIN>
+    <Ten>a3</Ten>
+    <XacXuat>0.18</XacXuat>
+    <HeSo>2</HeSo>
+  </TIN>
+  
+  <TIN>
+    <Ten>a2</Ten>
+    <XacXuat>0.03</XacXuat>
+    <HeSo>2</HeSo>
+  </TIN>
+  
+  <TIN>
+    <Ten>a10</Ten>
+    <XacXuat>0.09</XacXuat>
+    <HeSo>2</HeSo>
+  </TIN>
+</TINS>
